@@ -1,0 +1,4 @@
+we are looking for, position, expected_text
+1;;'Enter a valid password', 'qqq'
+;;'Enter a valid account number or username', 'Enter a valid password.'
+18;24;'We are currently unable to complete your request.', 'qqq'
